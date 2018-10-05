@@ -1,0 +1,92 @@
+#pp {
+  border-radius: 50%;
+  width: 10em;
+
+}
+
+#c1:hover {
+   background-color: white;
+   border-bottom : 10px solid black;
+   border-top : 10px solid black;
+   border-left : 10px solid black;
+   border-right : 10px solid black;
+}
+
+#c2:hover {
+   background-color: white;
+   border-bottom : 10px solid black;
+   border-top : 10px solid black;
+   border-left : 10px solid black;
+   border-right : 10px solid black;
+}
+
+#c3:hover {
+   background-color: white;
+   border-bottom : 10px solid black;
+   border-top : 10px solid black;
+   border-left : 10px solid black;
+   border-right : 10px solid black;
+}
+
+#c1 {
+  width: 1000px;
+  background-color: #f1bdb2;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  padding: 15px;
+  border-bottom : 10px solid #e1b1a6;
+  border-top : 10px solid #fdcdc3;
+  border-left : 10px solid #f7cec5;
+  border-right : 10px solid #e8b7ac;
+  transition: 1s;
+}
+#c2 {
+  width: 1000px;
+  background-color: #f1bdb2;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  padding: 15px;
+  border-bottom : 10px solid #e1b1a6;
+  border-top : 10px solid #fdcdc3;
+  border-left : 10px solid #f7cec5;
+  border-right : 10px solid #e8b7ac;
+  transition: 1s;
+}
+
+#c3 {
+  width: 1000px;
+  background-color: #f1bdb2;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  padding: 15px;
+  border-bottom : 10px solid #e1b1a6;
+  border-top : 10px solid #fdcdc3;
+  border-left : 10px solid #f7cec5;
+  border-right : 10px solid #e8b7ac;
+  transition: 1s;
+}
+
+body {
+  background-image: url(http://www.oldbillspestcontrol.com/assets/moth1.png);
+  background-repeat: repeat;
+
+}
+
+.flying {
+  width: 500px;
+}
+
+.imgt {
+    display: flex;
+
+  }
+
+.texte2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+}
